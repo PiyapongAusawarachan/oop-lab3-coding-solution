@@ -1,5 +1,5 @@
 import turtle
-
+print("a com pro")
 class Ball:
     def __init__(self, size, x, y, vx, vy, color):
         self.size = size
